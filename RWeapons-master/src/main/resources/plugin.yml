@@ -1,0 +1,7 @@
+name: RWeapons
+version: '${project.version}'
+main: xyz.raitaki.rweapons.RWeapon
+api-version: 1.19
+commands:
+  testparticle:
+
